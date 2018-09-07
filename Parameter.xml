@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="namespace_string">
+	<LogInfor>
+		<logPath>./test.log</logPath>
+		<logReadMark>21</logReadMark>
+		<logReadLength>2</logReadLength>
+	</LogInfor>
+	<XMLInfor>E:/study2/index/jar/test/</XMLInfor>
+	<PyeeContrast>
+		<PyeeId>
+			<ID>Z2014811000011</ID>
+			<ID>Z2007933000010</ID>
+			<ID>Z2007933000010</ID>
+		</PyeeId>
+		<PyeeName>
+			<Name>京东支付</Name>
+			<Name>支付宝</Name>
+			<Name>财付通</Name>
+		</PyeeName>
+	</PyeeContrast>
+	<DBInfor>
+		<DB_URL>jdbc:mysql://localhost:3306/matestdb?serverTimezone=GMT&amp;useSSL=false</DB_URL>
+		<DB_USER>root</DB_USER>
+		<DB_PASS>123456</DB_PASS>
+		<ReturnTable>huizhi</ReturnTable>
+		<ApplicationTable>zhifu</ApplicationTable>
+		<ModelTable>zong</ModelTable>
+	</DBInfor>
+</root>
